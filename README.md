@@ -7,6 +7,7 @@
 - print() Function
 - Comments
 - Basic Arithmetic
+- Escape Character (\n)
 
 ## Example Program
 
