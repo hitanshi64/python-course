@@ -10,11 +10,11 @@
 - Escape Character (\n)
 
 ## Example Program
-
+```
 python
 print("Hello World")
 print(10 + 20)
-
+```
 
 # Day 2 - Variables & Data Types
 
@@ -51,3 +51,4 @@ is_student = True
 print("Name:", name)
 print("Age:", age)
 print("Student:", is_student)
+```
