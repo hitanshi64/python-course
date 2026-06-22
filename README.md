@@ -10,8 +10,7 @@
 - Escape Character (\n)
 
 ## Example Program
-```
-python
+```python
 print("Hello World")
 print(10 + 20)
 ```
