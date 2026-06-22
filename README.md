@@ -14,6 +14,7 @@
 ```python
 print("Hello World")
 print(10 + 20)
+```
 
 
 # Day 2 - Variables & Data Types
@@ -21,21 +22,21 @@ print(10 + 20)
 ## Topics Learned
 - Variables
 - Data Types
-  - Integer (int)
-  - Float (float)
-  - String (str)
-  - Boolean (bool)
+- Integer (int)
+- Float (float)
+- String (str)
+- Boolean (bool)
 - type() Function
 - Variable Declaration and Initialization
 - Printing Variables
 - Arithmetic Operators
-  - Addition (+)
-  - Subtraction (-)
-  - Multiplication (*)
-  - Division (/)
-  - Floor Division (//)
-  - Modulus (%)
-  - Exponentiation (**)
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Floor Division (//)
+- Modulus (%)
+- Exponentiation (**)
 - f-Strings
 - Comparison Operator (==)
 - Variable Swapping Without Using a Third Variable
@@ -51,4 +52,3 @@ is_student = True
 print("Name:", name)
 print("Age:", age)
 print("Student:", is_student)
-
