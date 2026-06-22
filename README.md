@@ -80,11 +80,11 @@ print(len(name))
 print(name[0:3])
 ```
 Problems Solved
-Clean and Format a Name
-Count Total Characters in a String
-Extract First Name from Full Name
-Reverse a String
-Username Generator
-Sentence Analyser
-String Manipulation Using Built-in Methods
+- Clean and Format a Name
+- Count Total Characters in a String
+- Extract First Name from Full Name
+- Reverse a String
+- Username Generator
+- Sentence Analyser
+- String Manipulation Using Built-in Methods
 
