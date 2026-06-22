@@ -14,3 +14,23 @@
 ```python
 print("Hello World")
 print(10 + 20)
+
+
+# Day 2 - Variables & Data Types
+Topics Learned
+Variables
+Data Types (int, float, str, bool)
+type() Function
+Arithmetic Operators (+, -, *, /, //, %, **)
+Comparison Operator (==)
+Variable Swapping
+f-Strings
+Example Program
+name = "Hitanshi"
+age = 21
+is_student = True
+
+print(name)
+print(age)
+print(is_student)
+
