@@ -88,3 +88,31 @@ Problems Solved
 - Sentence Analyser
 - String Manipulation Using Built-in Methods
 
+# Day 4 - User Input & Type Conversion
+
+## Topics Learned
+- input() Function
+- User Input Handling
+- Type Conversion
+- int() Function
+- float() Function
+- str() Function
+- Why input() Always Returns String
+- Taking Multiple Inputs from User
+- f-Strings with User Input
+
+## Example Program
+
+```python
+name = input("Enter your name: ")
+print("Hello", name)
+```
+
+Problems Solved
+Name Greeting Program
+Age Calculator
+Sum of Two Numbers
+User Information Display Program
+Integer Input Conversion
+Float Input Conversion
+Data Type Checking Using type()
