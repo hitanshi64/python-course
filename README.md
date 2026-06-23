@@ -116,3 +116,41 @@ Problems Solved
 - Integer Input Conversion
 - Float Input Conversion
 - Data Type Checking Using type()
+
+
+# Day 5 - Conditionals (if, elif, else)
+
+## Topics Learned
+- if Statement
+- if-else Statement
+- if-elif-else Statement
+- Comparison Operators
+- Equal To (==)
+- Not Equal To (!=)
+- Greater Than (>)
+- Less Than (<)
+- Greater Than or Equal To (>=)
+- Less Than or Equal To (<=)
+- Logical Operators
+- and Operator
+- or Operator
+- not Operator
+
+## Example Program
+
+```python
+marks = 75
+
+if marks >= 90:
+    print("Grade A")
+elif marks >= 70:
+    print("Grade B")
+else:
+    print("Grade C")
+```
+Problems Solved
+- Grade Calculator
+- Login Checker
+- Even or Odd Number Checker
+- Largest of Two Numbers
+- Age Category Checker
