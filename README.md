@@ -109,10 +109,10 @@ print("Hello", name)
 ```
 
 Problems Solved
--Name Greeting Program
--Age Calculator
--Sum of Two Numbers
--User Information Display Program
--Integer Input Conversion
--Float Input Conversion
--Data Type Checking Using type()
+- Name Greeting Program
+- Age Calculator
+- Sum of Two Numbers
+- User Information Display Program
+- Integer Input Conversion
+- Float Input Conversion
+- Data Type Checking Using type()
